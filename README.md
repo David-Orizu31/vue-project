@@ -52,6 +52,8 @@ npm run build
 ```
 
 ## Project Structure
+
+````
 vue-jobs/
 ├── public/
 ├── src/
@@ -77,6 +79,7 @@ vue-jobs/
 ├── jobs.json
 ├── package.json
 └── vite.config.js
+````
 
 ## License
 

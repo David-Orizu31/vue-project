@@ -59,6 +59,7 @@ vue-jobs/
 ├── src/
 │   ├── assets/
 │   ├── components/
+|   |   ├── BackButton.vue
 |   |   ├── Card.vue
 │   │   ├── Hero.vue
 │   │   ├── HomeCards.vue
@@ -68,11 +69,11 @@ vue-jobs/
 │   ├── router/
 │   │   └── index.js
 │   ├── views/
+│   │   ├── AddJobView.vue
+│   │   ├── EditJobView.vue
 │   │   ├── HomeView.vue
 │   │   ├── JobsView.vue
 │   │   ├── JobView.vue
-│   │   ├── AddJobView.vue
-│   │   ├── EditJobView.vue
 │   │   └── NotFoundView.vue
 │   ├── App.vue
 │   └── main.js
